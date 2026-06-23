@@ -1,0 +1,6 @@
+{
+  "name": "Pet Insurance Hub",
+  "description": "반려동물 정보를 입력받아 맞춤형 펫보험을 추천하고, 한국 펫보험 시장 분석 및 Google Sheets 연동을 통해 다양한 펫보험을 한눈에 관리하는 어플리케이션입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
